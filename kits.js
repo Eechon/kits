@@ -5,4 +5,4 @@ var kits = [];
 kits.randomInt = function(n, m) {
     return Math.floor(Math.random() * (m - n + 1) + n);
 };
-// 测试Git上传
+// 再次测试账号密码是否需要重新输入
